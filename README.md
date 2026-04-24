@@ -173,3 +173,7 @@ tail -f ~/Library/Logs/claude-usage-report.log
 ## License
 
 MIT
+
+---
+
+觉得有用的话，欢迎 ⭐ Star · 作者 [@TZD666](https://github.com/TZD666)
